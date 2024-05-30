@@ -19,7 +19,7 @@ Prerequisites:
 2.An IDE or text editor for writing C code (e.g., Visual Studio Code, Code::Blocks)
 
 
-Project Structure
+Project Structure:
 
 1.main.c: The main source code file containing the Blood Bank Management System implementation.
 
